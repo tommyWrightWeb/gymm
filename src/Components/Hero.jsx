@@ -8,7 +8,7 @@ function Hero() {
         <p> IT'S TIME TO GET</p>
         <h1 className='upper-case font-semibold text-4xl sm:text-5xl md:text-6xl lg:text-7xl'>SWOLE <span className='text-blue-400 font-medium'>NORMOUS</span></h1>
         </div>
-        <p className='text-sm md:text-base font-light'>I hereby acknowledge that I may become <span>unbelievably swolenormous</span> 
+        <p className='text-sm md:text-base font-light'>I hereby acknowledge that I may become <span>unbelievably swolenormous </span> 
         and accept all the risks of becoming a <span className='text-blue-400 font-medium'>mass monstrosity </span>
         affiliated with severe body dysmorphia, unable to fit through doors.
         </p>
